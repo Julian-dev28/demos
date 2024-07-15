@@ -1,1 +1,1 @@
-git clone https://github.com/Julian-dev28/soroban-quickstart-dapp.git
+npm create soroban-dapp@latest
